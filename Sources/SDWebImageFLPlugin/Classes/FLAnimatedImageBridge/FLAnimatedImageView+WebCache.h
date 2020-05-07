@@ -6,7 +6,7 @@
  * file that was distributed with this source code.
  */
 
-#import "SDWebImage/SDWebImage.h"
+#import <SDWebImage/SDWebImage.h>
 #import <FLAnimatedImage/FLAnimatedImage.h>
 #import "SDFLAnimatedImage.h"
 
