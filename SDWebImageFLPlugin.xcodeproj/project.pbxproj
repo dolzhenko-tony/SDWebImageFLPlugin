@@ -44,7 +44,7 @@
 		32E41DC921366B2200DA5D5D = {
 			isa = PBXGroup;
 			children = (
-				32E41DD521366B2200DA5D5D /* SDWebImageFLPlugin */,
+				345799A3246468E9007BCBCD /* Sources */,
 				32E41DD421366B2200DA5D5D /* Products */,
 				32E41DEB21366D0C00DA5D5D /* Frameworks */,
 			);
@@ -87,6 +87,14 @@
 				32E41DEC21366D0C00DA5D5D /* FLAnimatedImage.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		345799A3246468E9007BCBCD /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32E41DD521366B2200DA5D5D /* SDWebImageFLPlugin */,
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
