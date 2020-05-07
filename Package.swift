@@ -10,7 +10,7 @@ import PackageDescription
              targets: ["SDWebImageFLPlugin"]),
      ],
      dependencies: [
-      .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.6")
+      .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.6.0")
      ],
      targets: [
          .target(
